@@ -32,7 +32,6 @@ Mark Me is a modern, user-friendly attendance management system designed to stre
 git clone https://github.com/yourusername/mark-me.git
 cd mark-me
 ```
-
 2. Install dependencies
 ```bash
 npm install
@@ -49,6 +48,12 @@ VITE_SUPABASE_URL = ""
 4. Start the application
 ```bash
 npm run dev
+```
+
+5. Credentials
+```bash
+admin@markme.com
+admin@123
 ```
 
 ## 🛠 Technology Stack
